@@ -3,7 +3,7 @@ name: test
 on:
   push:
     branches:
-      - main
+      - og-url
   pull_request:
     branches:
       - main
